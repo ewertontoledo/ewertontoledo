@@ -9,7 +9,7 @@ Trabalho com tecnologias como:
 - 🔧 Terraform, Jenkins, GitHub Actions, Bamboo
 - 📈 Dynatrace, Kibana, SonarQube
 - 🧪 Postman, Insomnia, SQL Server, PostgreSQL
-- 💻 Shell Script e estudando Python
+- 💻 Shell Script
 
 ---
 
