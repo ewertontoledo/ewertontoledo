@@ -25,6 +25,9 @@ Trabalho com tecnologias como:
 
 ## 📚 Formação & Certificações
 
+- 🎓 **Superior de Tecnologia em Segurança da Informação – Universidade Cruzeiro do Sul (em andamento)**  
+  Foco em redes, segurança de sistemas, criptografia, análise de vulnerabilidades e proteção de dados.
+
 - 📱 **Curso Técnico em Desenvolvimento Mobile – SENAC (concluído)**  
   Fundamentos de programação, apps Android/iOS, UI/UX e backend básico.
 
